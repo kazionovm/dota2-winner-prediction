@@ -1,2 +1,2 @@
-# dota2-winner-prediction
-ML pet project. Goal: predict will win in dota using match data
+# Dota 2 winner prediction
+**Goal:** predict who will win in dota game using match data.
