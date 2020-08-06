@@ -7,7 +7,7 @@
 * ML (RandomForest, LightGBM, CatBoost)
 * Kaggle data ([competition page](https://www.kaggle.com/c/mlcourse-dota2-win-prediction))
 
-## Useful materials
+## 👁 Useful materials
 * [Baseline starter](https://www.kaggle.com/kashnitsky/dota-2-win-prediction-random-forest-starter)
 * [EDA & some feature engineering](https://www.kaggle.com/artgor/dota-eda-fe-and-models)
 * [Using hero-ids](https://www.kaggle.com/utapyngo/dota-2-how-to-make-use-of-hero-ids)
