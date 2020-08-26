@@ -13,5 +13,5 @@
 * [Using hero-ids](https://www.kaggle.com/utapyngo/dota-2-how-to-make-use-of-hero-ids)
 * [Using hero items](https://www.kaggle.com/grazder/hero-items-guide)
 
-## Result
+## ⭐️ Result
 * Single model: `public score - 0.85719` (top 6% on leaderboard)
